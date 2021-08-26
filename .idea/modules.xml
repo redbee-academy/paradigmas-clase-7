@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/composition/composition.iml" filepath="$PROJECT_DIR$/composition/composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/currying/currying.iml" filepath="$PROJECT_DIR$/currying/currying.iml" />
+      <module fileurl="file://$PROJECT_DIR$/declarative/declarative.iml" filepath="$PROJECT_DIR$/declarative/declarative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises-day-1/exercises-day-1.iml" filepath="$PROJECT_DIR$/exercises-day-1/exercises-day-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises-day-1-kotlin/exercises-day-1-kotlin.iml" filepath="$PROJECT_DIR$/exercises-day-1-kotlin/exercises-day-1-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises-day-2/exercises-day-2.iml" filepath="$PROJECT_DIR$/exercises-day-2/exercises-day-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/higher-order-functions/higher-order-functions.iml" filepath="$PROJECT_DIR$/higher-order-functions/higher-order-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutability/immutability.iml" filepath="$PROJECT_DIR$/immutability/immutability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monads/monads.iml" filepath="$PROJECT_DIR$/monads/monads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradigmas.iml" filepath="$PROJECT_DIR$/paradigmas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pure-functions/pure-functions.iml" filepath="$PROJECT_DIR$/pure-functions/pure-functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+    </modules>
+  </component>
+</project>
